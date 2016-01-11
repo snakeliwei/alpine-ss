@@ -1,6 +1,7 @@
 # alpine-ss
 ---
-###docker-shadowsocks
+## [![](https://badge.imagelayers.io/snakeliwei/alpine-ss:latest.svg)](https://imagelayers.io/?images=snakeliwei/alpine-ss:latest 'Get your own badge on imagelayers.io')
+### docker-shadowsocks
 >This Dockerfile builds an image with the Python implementation of shadowsocks. Based on alpine image.
 
 Quick Start:
